@@ -1,0 +1,25 @@
+    1. Register Page
+
+For Patients (User Role)
+    2. login
+    3. dashboard
+    4. FindADoctorPage
+    5. DoctorProfilePage
+    6. BookAppointmentPage
+    7. MyAppointmentsPage
+    8. UserProfilePage
+
+For Doctors (Doctor Role)
+    9. login
+    10. dashboard
+    11. DoctorSchedulePage
+    12. PatientDetailsPage
+    13. DoctorProfileSettingsPage
+
+For Admins (Admin Role)
+    14. login
+    15. dashboard
+    16. UserManagementPage
+    17. DoctorManagementPage
+    18. AllAppointmentsPage
+    19. SystemSettingsPage
